@@ -1,0 +1,5 @@
+### http request testing for currency
+GET https://open.er-api.com/v6/latest/USD
+
+### http request testing for currency code
+GET https://restcountries.com/v3.1/name/germa?fullText=true
